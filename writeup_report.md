@@ -12,7 +12,7 @@ Here I will consider the rubric points individually and describe how I addressed
 [//]: # (Image References)
 
 [image1]: https://github.com/bryson-hub/HVAC/blob/master/Images/code.jpg "code"
-[image2]: https://github.com/userName/JHS-HVAC-Assignment/blob/master/images/image_example2.JPG "image_example2"
+[image2]: https://github.com/bryson-hub/HVAC/blob/master/Images/fan.jpg "fan"
  
 ### Physical Construction 
 #### Design Constraints - All design constraints are met and the prototype goes above and beyond. 
@@ -38,7 +38,7 @@ Here are some pictures of my code:
 My build includes certain loops and functions to ensure program repeatability. For example, ... 
  
 Here is where the code is implemented and integrating with my physical build: 
-![fan][fan]
+![fan][image2]
 
 #### Output Video
 Follow [link](https://github.com/bryson-hub/HVAC/blob/master/WIN_20191101_09_29_36_Pro_Trim.mp4)
