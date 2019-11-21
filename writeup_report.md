@@ -1,4 +1,5 @@
 # Model HVAC Project 
+Created & Written by: Zac Conn, Ricardo Saldana, and Joselin Campos-Parra
  
 ## The goals of this project are the following: 
  
@@ -43,3 +44,4 @@ Here is where the code is implemented and integrating with my physical build:
 #### Output Video
 Follow [link](https://github.com/bryson-hub/HVAC/blob/master/WIN_20191101_09_29_36_Pro_Trim.mp4)
 
+_Edited by: John Gentry, Juan Benitez , Bryson Taylor_
